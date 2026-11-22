@@ -1,0 +1,13 @@
+date,category,amount,description
+2026-09-02,Software,149.00,Synthetic subscription
+2026-09-05,Transport,65.50,Synthetic trip
+2026-09-12,Office,320.00,Synthetic office supplies
+2026-09-20,Software,89.00,Synthetic hosting
+2026-10-02,Software,149.00,Synthetic subscription
+2026-10-06,Transport,80.00,Synthetic trip
+2026-10-10,Office,125.75,Synthetic stationery
+2026-10-22,Training,250.00,Synthetic course
+2026-11-02,Software,149.00,Synthetic subscription
+2026-11-04,Transport,72.25,Synthetic trip
+2026-11-10,Office,95.50,Synthetic supplies
+2026-11-15,Training,180.00,Synthetic workshop
